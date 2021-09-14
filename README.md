@@ -1,6 +1,6 @@
-# SegundoSite-EducaSmart
+## SegundoSite-EducaSmart
  
-Segundo site desenvildio por meados de 2019.
+Segundo site desenvolvido por meados de 2019.
 
 Criado para fins de como melhorar a educação com tecnologia, criamos um site que mostra ferramentas uteis
 
